@@ -1,4 +1,4 @@
-# ![CRModders Logo](./crmodders.png) Cosmic Modders
+# ![CRModders Logo](/profile/crmodders.png) Cosmic Modders
 
 A group of modders with the goal of unifying Cosmic Reach modding.
 
