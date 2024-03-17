@@ -1,0 +1,18 @@
+{
+    specVersion: 1
+    rootId: io.github.crmodders
+    lastUpdated: 1710704714
+    mods: [
+        {
+            id: io.github.crmodders.spacialmenu
+            name: SpacialMenu
+            desc: UNFINISHED mod that lets you change the main menu layout.
+            authors: [ "EmmaTheMartian" ]
+            version: 0.0.1
+            gameVersion: 0.1.7
+            url: nil
+            deps: []
+            ext: {}
+        }
+    ]
+}
