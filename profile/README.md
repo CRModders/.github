@@ -8,5 +8,5 @@ A proposal intended to unify mod distribution.
 ## [GalacticLoader](https://github.com/GalacticLoader/GalacticLoader)
 A Fabric game provider for Cosmic Reach.
 
-## [Cosmic Mod Example](https://github.com/GalacticLoader/CosmicModExample)
+## [Cosmic Reach Mod Example](https://github.com/GalacticLoader/CosmicReachModExample)
 Example mod for GalacticLoader.
