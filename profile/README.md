@@ -10,3 +10,6 @@ A Fabric game provider for Cosmic Reach.
 
 ## [Cosmic Reach Mod Example](https://github.com/GalacticLoader/CosmicReachModExample)
 Example mod for GalacticLoader.
+
+## [Codeberg Group](https://codeberg.org/CRModders)
+A CodeBerg Group with some more repos not on GitHub.
