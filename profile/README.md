@@ -4,9 +4,3 @@ A group of modders with the goal of unifying Cosmic Reach modding.
 
 ## [CRM-1 Proposal](https://github.com/CRModders/CRM-1)
 A proposal intended to unify mod distribution.
-
-## [GalacticLoader](https://github.com/GalacticLoader/GalacticLoader)
-A Fabric game provider for Cosmic Reach.
-
-## [Cosmic Reach Mod Example](https://github.com/GalacticLoader/CosmicReachModExample)
-Example mod for GalacticLoader.
